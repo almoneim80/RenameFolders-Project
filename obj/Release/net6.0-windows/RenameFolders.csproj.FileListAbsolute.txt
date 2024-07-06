@@ -1,0 +1,17 @@
+E:\C# codes\RenameFolders\RenameFolders\bin\Release\net6.0-windows\RenameFolders.exe
+E:\C# codes\RenameFolders\RenameFolders\bin\Release\net6.0-windows\RenameFolders.deps.json
+E:\C# codes\RenameFolders\RenameFolders\bin\Release\net6.0-windows\RenameFolders.runtimeconfig.json
+E:\C# codes\RenameFolders\RenameFolders\bin\Release\net6.0-windows\RenameFolders.dll
+E:\C# codes\RenameFolders\RenameFolders\bin\Release\net6.0-windows\RenameFolders.pdb
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.csproj.AssemblyReference.cache
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.Form1.resources
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.csproj.GenerateResource.cache
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.AssemblyInfoInputs.cache
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.AssemblyInfo.cs
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.csproj.CoreCompileInputs.cache
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.dll
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\refint\RenameFolders.dll
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.pdb
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\RenameFolders.genruntimeconfig.cache
+E:\C# codes\RenameFolders\RenameFolders\obj\Release\net6.0-windows\ref\RenameFolders.dll

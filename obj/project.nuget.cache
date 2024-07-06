@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwem2oNUVQAZuvtY/1EkWOEKWdlw/ofyqkJgSgJfv4OI5RcgCV3SlX4cG91quRqiVUhiiR0VfIXbtYra4PK3eQ==",
+  "success": true,
+  "projectFilePath": "E:\\From Abdulrahman\\RenameFolders\\RenameFolders\\RenameFolders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdulmonam\\.nuget\\packages\\sevenzip\\19.0.0\\sevenzip.19.0.0.nupkg.sha512",
+    "C:\\Users\\abdulmonam\\.nuget\\packages\\sharpcompress\\0.36.0\\sharpcompress.0.36.0.nupkg.sha512",
+    "C:\\Users\\abdulmonam\\.nuget\\packages\\zstdsharp.port\\0.7.4\\zstdsharp.port.0.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
